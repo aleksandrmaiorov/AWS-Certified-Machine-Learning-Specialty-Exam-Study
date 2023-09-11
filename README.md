@@ -59,10 +59,11 @@ A Python library for slicign and dicing your data
  - Data Frames
  - Series
  - Interoperates with **numpy** 
-#### Ex:
+#### Ex 1:
  `` df[['Years Experience', 'Hired']][:5]``
 
-
-
+#### Ex 1:
+`` degree_counts = df['Level of Education']. value_counts()
+degree_counts ``
 
 
