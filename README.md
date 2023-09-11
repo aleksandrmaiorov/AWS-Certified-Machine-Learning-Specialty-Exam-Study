@@ -51,3 +51,18 @@ Briefly mentioned, covered by Frank Kane:
 **SageMaker**: ML Service
 
 **DeepLens**: camera by Amazon
+
+
+## Services you probably will face during ML exam
+### Python Pandas
+A Python library for slicign and dicing your data
+ - Data Frames
+ - Series
+ - Interoperates with **numpy** 
+#### Ex:
+ `` df[['Years Experience', 'Hired']][:5]``
+
+
+
+
+
