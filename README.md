@@ -1,5 +1,6 @@
+# AWS Certified Machine Learning Specialty
 
-##Services you probably will face during ML exam**
+## Services you probably will face during ML exam
 
 Here's a quick summary of all the services you might face during AWS Certified Machine Learning exam.
 
